@@ -1,0 +1,51 @@
+body {
+	background-color: pink;
+
+}
+
+.container {
+	width: 100%;
+	border: solid #246294;
+}
+
+
+.titleBarbie {
+	font-family: Verdana;
+	color: cyan;
+	font-size: 2em;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50
+}
+
+.chatbox {
+	background-color: pink;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	height: 400px;
+	width: 400px;
+	overflow: scroll,
+}
+
+.userinput {
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+}
+
+.userMsg {
+	margin-left: auto;
+	margin-right: auto;
+	width: 350px;
+}
+
+.botText {
+	text-align: left;
+}
+
+.userText {
+	text-align: right;
+}
