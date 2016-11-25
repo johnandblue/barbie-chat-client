@@ -1,2 +1,3 @@
 # barbie-chat-client
-Barbie Chat Client
+Test for chat client
+Barbie Theme
